@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/queue.v1.min.js"></script>
+    <script src="https://d3js.org/topojson.v1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <div>
+        <div class="inputFields">
+            <label for="inputData">Choose data to compare:</label>
+            <select id="inputData" onchange=(inputValueChange(value))>
+                <option value="happiness" selected="selected">Happiness</option>
+                <option value="fight">Fight</option>
+                <option value="work">Work</option>
+                <option value="family">Family</option>
+                <option value="friends">Friends</option>
+                <option value="politics">Politics</option>
+                <option value="religion">Religion</option>
+                <option value="leisure">Leisure</option>
+            </select>
+            <label for="inputPeriod">Choose period period to compare:</label>
+            <select id="inputPeriod" onchange=(inputPeriodChange(value))>
+                <option value="2010-2014" selected="selected">2010-2014</option>
+                <option value="2005-2009">2005-2009</option>
+                <option value="2000-2004">2000-2004</option>
+                <option value="1995-1999">1995-1999</option>
+            </select>
+        </div>
+        <script src="index.js"></script>
+    </div>
+</body>
+
+</html>

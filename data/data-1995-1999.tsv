@@ -1,0 +1,243 @@
+id	name	population	fight	happiness	work	religion	family	friends	politics	leisure
+CHN	China	1330141295	89,3	22,7	63,9	3,9	76,5	29,3	23,7	10,7
+IND	India	1173108018	17,2	29,9	82,4	48,2	90,8	37,5	10,9	11,1
+USA	United States	310232863	70,8	46,3	70,3	22,8	91,3	57,6	13,8	46,4
+IDN	Indonesia	242968342
+BRA	Brazil	201103330	69,6	22	84	64,5	92,6	57,7	21,8	54,2
+PAK	Pakistan	177276594	84,2	27,9	67,7	80,5	80,8	25,1	7,7	12,5
+BGD	Bangladesh	158065841	78,8	18	83,1	82,2	94,2	16,1	13,4	11,1
+NGA	Nigeria	152217341	86,6	46,2	86,9	91,5	97,5	53	21,4	50,4
+RUS	Russia	139390205	81,9	6,1	48,6	14	83,7	29,2	8,1	25,8
+JPN	Japan	126804433	81,6	32,5	53,5	6,4	89,8	48,1	18,3	39,8
+MEX	Mexico	112468855	72	31,5	63,4	45,4	74,3	28,9	17,2	35,5
+PHL	Philippines	99900177	65	40,2	83	78,3	95,8	39	14,6	14,2
+VNM	Vietnam	89571130
+ETH	Ethiopia	88013491
+DEU	Germany	82282988	61,8	17,9	50,3	10,8	78,4	43,4	10,9	31,8
+EGY	Egypt	80471869
+TUR	Turkey	77804122	69,2	51	76	83,3	96,6	71,2	24,2	40,1
+COD	Congo, Democratic Republic of the	70916439
+IRN	Iran	67037517
+THA	Thailand	66404688
+FRA	France	64057792
+GBR	United Kingdom	61284806	78,1	32,4	55,2	55,9	95,2	69,4	17,8	42,3
+ITA	Italy	58090681
+MMR	Burma	53414374
+ZAF	South Africa	49109107	85,4	35,3	79,5	67,8	93,1	27	18,7	31,5
+KOR	Korea, South	48636068
+UKR	Ukraine	45415596	68,1	4,9	47,2	19,1	85,7	34,1	6,4	24,8
+COL	Colombia	44205293	66,6	47,1	71,8	49	86	33,5	9,4	39,7
+SDN	Sudan	41980182
+TZA	Tanzania	41892895
+ARG	Argentina	41343201	58,1	28,8	70,3	34,9	86,6	48,6	10,1	26,4
+ESP	Spain	40548753	57	18,7	59,1	25,2	81,8	40,7	7,8	30,2
+KEN	Kenya	40046566
+POL	Poland	38463689	70,5	18,3	63,3	46,4	89,7	26	6,9	23
+DZA	Algeria	34586184
+CAN	Canada	33759742
+UGA	Uganda	33398682
+MAR	Morocco	31627428
+PER	Peru	29907003	72,2	28,2	72,8	53,3	87,4	21,9	13,1	28,5
+IRQ	Iraq	29671605
+SAU	Saudi Arabia	29207277
+AFG	Afghanistan	29121286
+NPL	Nepal	28951852
+UZB	Uzbekistan	27865738
+VEN	Venezuela	27223228	73,9	54,4	62,9	25,3	88,6	48,3	7,3	25,9
+MYS	Malaysia	26160256
+GHA	Ghana	24339838
+YEM	Yemen	23495361
+TWN	Taiwan	23024956	73,1	29,7	44,4	12,6	77,7	29	10,9	25,8
+PRK	Korea, North	22757275
+SYR	Syria	22198110
+ROU	Romania	22181287	52,4	5,1	58,8	37,5	88,6	20,7	6,9	27
+MOZ	Mozambique	22061451
+AUS	Australia	21515754	68,9	42,8	50,8	23,1	90,2	62,6	15	44,4
+LKA	Sri Lanka	21513990
+MDG	Madagascar	21281844
+CIV	Cote d'Ivoire	21058798
+CMR	Cameroon	19294149
+NLD	Netherlands	16783092
+CHL	Chile	16746491	69,3	27	64,3	41,8	88,8	27,6	6,9	42
+BFA	Burkina Faso	16241811
+NER	Niger	15878271
+KAZ	Kazakhstan	15460484
+MWI	Malawi	15447500
+ECU	Ecuador	14790608
+KHM	Cambodia	14753320
+SEN	Senegal	14086103
+MLI	Mali	13796354
+GTM	Guatemala	13550440
+AGO	Angola	13068161
+ZMB	Zambia	12056923
+ZWE	Zimbabwe	11651858
+CUB	Cuba	11477459
+RWA	Rwanda	11055976
+GRC	Greece	10749943
+PRT	Portugal	10735765
+TUN	Tunisia	10589025
+TCD	Chad	10543464
+BEL	Belgium	10423493
+GIN	Guinea	10324025
+CZE	Czech Republic	10201707
+SOM	Somalia	10112453
+BOL	Bolivia	9947418
+HUN	Hungary	9880059	81,5	13,5	50,5	21,5	89,4	38,2	6,6	33,5
+BDI	Burundi	9863117
+DOM	Dominican Republic	9794487
+BLR	Belarus	9612632	73,9	4,2	46,7	20	83,8	31,3	9,8	28,7
+HTI	Haiti	9203083
+SWE	Sweden	9074055	94,8	39,2	64,6	9,5	90,2	69,9	11	51,4
+BEN	Benin	9056010
+AZE	Azerbaijan	8303512	91,4	11	53,3	29,5	84,7	35,2	9,6	30
+AUT	Austria	8214160
+HND	Honduras	7989415
+CHE	Switzerland	7623438	59,4	39,8	46,5	14,3	80,9	58,2	6,4	45,2
+TJK	Tajikistan	7487489
+ISR	Israel	7353985
+SRB	Serbia	7344847
+BGR	Bulgaria	7148785	55	9	52	14,8	87,9	40,8	6,9	20,9
+HKG	Hong Kong	7089705
+LAO	Laos	6993767
+LBY	Libya	6461454
+JOR	Jordan	6407085
+PRY	Paraguay	6375830
+TGO	Togo	6199841
+PNG	Papua New Guinea	6064515
+SLV	El Salvador	6052064	61,3	55,6	94,8	86,5	96,6	64,5	17	61,8
+NIC	Nicaragua	5995928
+ERI	Eritrea	5792984
+DNK	Denmark	5515575
+KGZ	Kyrgyzstan	5508626
+SVK	Slovakia	5470306	59,5	6,6	47,1	23,7	90,9	32	3,7	25,6
+FIN	Finland	5255068	65,1	23,7	48,5	13,3	80,4	56	3,1	34,7
+SLE	Sierra Leone	5245695
+ARE	United Arab Emirates	4975593
+TKM	Turkmenistan	4940916
+CAF	Central African Republic	4844927
+SGP	Singapore	4701069
+NOR	Norway	4676305	85,1	29,9	58,8	12,1	87,8	59	6	39
+BIH	Bosnia and Herzegovina	4621598
+GEO	Georgia	4600825	42,9	11,6	57,8	49,3	94,6	73,6	13,2	36,2
+CRI	Costa Rica	4516220
+HRV	Croatia	4486881	43,9	8,4	54,3	25,7	85,2	48,3	5,9	33
+MDA	Moldova	4317483	47,1	3,6	52	30,5	79	21,2	6,6	22,3
+NZL	New Zealand	4252277	55,2	32,8	45	19	92,6	55,4	7	45
+IRL	Ireland	4250163
+COG	Congo, Republic of the	4125916
+LBN	Lebanon	4125247
+PRI	Puerto Rico	3977663	68,9	42,9	74,3	71,2	92,6	28,8	12,9	47,1
+LBR	Liberia	3685076
+ALB	Albania	3659616	56,4	3,1	79,7	24,2	95,8	18,6	3,7	11,8
+LTU	Lithuania	3545319	58,9	4,1	45,6	13,1	73,2	21,6	3,9	18,4
+URY	Uruguay	3510386	76,7	20,6	94,2	61,1	97,9	42,2	12,7	60,4
+PAN	Panama	3410676
+MRT	Mauritania	3205060
+MNG	Mongolia	3086918
+OMN	Oman	2967717
+ARM	Armenia	2966802	68,8	6	66,8	25	86	44,5	14,1	23,1
+JAM	Jamaica	2847232
+KWT	Kuwait	2789132
+PSE	West Bank	2514845
+LVA	Latvia	2217969	51	4,4	56,1	12,2	67,8	24,2	5,1	19,7
+NAM	Namibia	2128471
+MKD	Macedonia	2072086	48,1	13,4	82	33,8	97,5	47,8	9,8	45,5
+BWA	Botswana	2029307
+SVN	Slovenia	2003136	50,3	13,4	54,9	16,3	82	41	2,9	33,3
+LSO	Lesotho	1919552
+GMB	Gambia, The	1824158
+KWT	Kosovo	1815048
+149	Gaza Strip	1604238
+GNB	Guinea-Bissau	1565126
+GAB	Gabon	1545255
+SWZ	Swaziland	1354051
+153	Mauritius	1294104
+EST	Estonia	1291170	78	4,6	59,7	7,9	77,7	26,8	4,6	21,3
+TTO	Trinidad and Tobago	1228691
+TLS	Timor-Leste	1154625
+CYP	Cyprus	1102677
+FJI	Fiji	957780
+QAT	Qatar	840926
+160	Comoros	773407
+GUY	Guyana	748486
+DJI	Djibouti	740528
+163	Bahrain	738004
+BTN	Bhutan	699847
+MNE	Montenegro	666730
+GNQ	Equatorial Guinea	650702
+SLB	Solomon Islands	609794
+168	Macau	567957
+169	Cape Verde	508659
+LUX	Luxembourg	497538
+ESH	Western Sahara	491519
+SUR	Suriname	486618
+173	Malta	406771
+174	Maldives	395650
+BRN	Brunei	395027
+BLZ	Belize	314522
+BHS	Bahamas, The	310426
+ISL	Iceland	308910
+179	French Polynesia	291000
+180	Barbados	285653
+181	Mayotte	231139
+NCL	New Caledonia	229993
+183	Netherlands Antilles	228693
+VUT	Vanuatu	221552
+185	Samoa	192001
+186	Sao Tome and Principe	175808
+187	Saint Lucia	160922
+188	Tonga	122580
+189	Virgin Islands	109775
+190	Grenada	107818
+191	Micronesia, Federated States of	107154
+192	Aruba	104589
+193	Saint Vincent and the Grenadines	104217
+194	Kiribati	99482
+195	Jersey	91812
+196	Seychelles	88340
+197	Antigua and Barbuda	86754
+198	Andorra	84525
+199	Isle of Man	76913
+DOM	Dominica	72813
+201	Bermuda	68268
+202	American Samoa	66432
+203	Marshall Islands	65859
+204	Guernsey	65632
+GRL	Greenland	57637
+206	Cayman Islands	50209
+207	Saint Kitts and Nevis	49898
+208	Faroe Islands	49057
+209	Northern Mariana Islands	48317
+210	Liechtenstein	35002
+211	San Marino	31477
+212	Monaco	30586
+213	Saint Martin	30235
+214	Gibraltar	28877
+215	British Virgin Islands	24939
+216	Turks and Caicos Islands	23528
+217	Palau	20879
+218	Akrotiri	15700
+219	Dhekelia	15700
+220	Wallis and Futuna	15343
+221	Anguilla	14764
+222	Nauru	14264
+223	Cook Islands	11488
+224	Tuvalu	10472
+225	Saint Helena, Ascension, and Tristan da Cunha	7670
+226	Saint Barthelemy	7406
+227	Saint Pierre and Miquelon	6010
+228	Montserrat	5118
+FLK	Falkland Islands (Islas Malvinas)	3140
+230	Norfolk Island	2155
+231	Svalbard	2067
+232	Christmas Island	1402
+233	Tokelau	1400
+234	Niue	1354
+235	Holy See (Vatican City)	829
+236	Cocos (Keeling) Islands	596
+237	Pitcairn Islands	48
+ATA	Antarctica	0
+ATF	French Southern and Antarctic Lands	0
+SDS	South Sudan	12152321
+ABV	Somaliland	3500000
+OSA	Kosovo	1824000
