@@ -5,14 +5,12 @@ prepMap()
 
 function inputValueChange(value) {
     inputValue = value;
-    console.log(inputValue)
     d3.select("svg").remove();
     prepMap()
 
 }
 function inputPeriodChange(value) {
     inputPeriod = value;
-    console.log(inputPeriod)
     d3.select("svg").remove();
     prepMap()
 }
@@ -35,12 +33,8 @@ function prepMap() {
         height = 500 - margin.top - margin.bottom;
 
     window.color = d3.scaleThreshold()
-        .domain([10000, 100000, 500000, 1000000, 5000000, 10000000, 50000000, 100000000, 500000000, 1500000000])
-        .range(["rgb(247,251,255)", "rgb(222,235,247)", "rgb(198,219,239)", "rgb(158,202,225)", "rgb(107,174,214)", "rgb(66,146,198)", "rgb(33,113,181)", "rgb(8,81,156)", "rgb(8,48,107)", "rgb(3,19,43)"]);
-
-    window.color = d3.scaleThreshold()
-        .domain([10, 20, 30, 40, 50, 60, 70, 80, 90, 95])
-        .range(["rgb(247,251,255)", "rgb(222,235,247)", "rgb(198,219,239)", "rgb(158,202,225)", "rgb(107,174,214)", "rgb(66,146,198)", "rgb(33,113,181)", "rgb(8,81,156)", "rgb(8,48,107)", "rgb(3,19,43)"]);
+        .domain([0, 10, 20, 30, 40, 50, 60, 70, 80, 90])
+        .range(["#bfccff", "#acbcff", "#98acff", "#849cff", "#718dff", "#5d7dff", "#496dff", "#365dff", "#224eff", "#0f3eff"]);
 
     window.path = d3.geoPath();
 

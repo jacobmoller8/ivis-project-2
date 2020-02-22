@@ -1,6 +1,43 @@
 .inputFields{
     margin-bottom: 100px;
 }
+.box{
+    padding: 3px;
+    background-color: blue;
+    display: inline;
+    color: black;
+}
+/* "#bfccff", "#acbcff", "#98acff", "#849cff", "#718dff", "#5d7dff", "#496dff", "#365dff", "#224eff", "#0f3eff" */
+.b1{
+    background-color: #bfccff;
+}
+.b2{
+    background-color: #acbcff;
+}
+.b3{
+    background-color: #98acff;
+}
+.b4{
+    background-color: #849cff;
+}
+.b5{
+    background-color: #718dff;
+}
+.b6{
+    background-color: #5d7dff;
+}
+.b7{
+    background-color: #496dff;
+}
+.b8{
+    background-color: #365dff;
+}
+.b9{
+    background-color: #224eff;
+}
+.b10{
+    background-color: #0f3eff;
+}
 
 
 .names {
@@ -26,7 +63,6 @@
     box-sizing: border-box;
     display: inline;
     font-size: 8px;
-    width: 100%;
     line-height: 1.5;
     color: rgba(0, 0, 0, 0.6);
     position: absolute;
